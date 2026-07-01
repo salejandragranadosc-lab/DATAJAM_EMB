@@ -1,4 +1,11 @@
 # DATAJAM_EMB
+
+En Bogotá se observa que las decisiones de desplazamiento de peatones, ciclistas y conductores se basan principalmente en la ruta más corta o más rápida, sin considerar la exposición diferencial al hurto, a la siniestralidad vial y a la deficiencia de iluminación pública a lo largo de la malla vial. Esta situación afecta a la ciudadanía que se moviliza cotidianamente por la ciudad —con mayor incidencia en franjas nocturnas y en poblaciones con mayor percepción de inseguridad— durante el periodo 2023–2025, lo que sugiere una posible brecha en la seguridad y en el acceso a información pública integrada que permita elegir rutas más seguras y no únicamente más rápidas.
+
+Justificación del problema: 
+Las herramientas de ruteo de uso masivo optimizan tiempo o distancia, pero no incorporan la seguridad como criterio de decisión, pese a que la inseguridad y la siniestralidad vial son problemas públicos prioritarios en la agenda distrital. La información sobre hurto, siniestros viales e iluminación pública existe en formato abierto, pero se encuentra dispersa y desarticulada, lo que impide convertirla en un instrumento de decisión para la ciudadanía y la administración. El ejercicio es relevante porque integra estas fuentes en un mismo soporte espacial y las traduce en recomendaciones accionables. Afecta a toda la población que se moviliza por la ciudad, con énfasis inicial en peatones (perfil más vulnerable y foco del piloto) y extensión a ciclistas y conductores. Tiene mayor incidencia sobre quienes transitan en horarios nocturnos y sobre poblaciones que reportan mayor percepción de inseguridad, lectura que puede validarse con la Encuesta de Percepción Ciudadana (EPC) 2025.
+
+
 Este repositorio contiene las operaciones geográficas realizadas para establecer rutas seguras a partir de datos abiertos.
 El siguiente proceso refleja las acciones realizadas para identificar las rutas seguras en Bogotá, para ello se identificaron 3 datos abiertos que se encuentran en las siguientes URL:
 Eje Vial POT Bogotá D.C: https://datosabiertos.bogota.gov.co/dataset/95cf10a5-3205-42d3-83c5-8a48abe59a9e/resource/cd0c70dc-b77d-4a5a-bca8-a3521966e5df/download/eje_vial.zip
